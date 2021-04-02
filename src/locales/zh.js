@@ -30,6 +30,7 @@ export default {
 		Reboot: "重启",
 		Shutdown: "关机",
 		Updating: "更新",
+		Recovering: "Recovering",
 		done: " 完成！",
 		Empty: "空的",
 		Close: "关闭",
